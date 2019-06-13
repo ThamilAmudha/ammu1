@@ -1,0 +1,5 @@
+s,p2=(input().split())
+s=int(s)
+p2=int(p2)
+temp=list(map(int,input().split()))
+print(temp.count(p2))
